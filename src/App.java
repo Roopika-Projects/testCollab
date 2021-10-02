@@ -7,5 +7,6 @@ public class App {
       
 
       	System.out.println("Changes 1 from Develop branch");
+      	System.out.println("Changes 2 from Develop branch");
 	}
 }
